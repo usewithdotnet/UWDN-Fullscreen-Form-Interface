@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\component.css" />
+    <None Include="wwwroot\css\cs-select.css" />
+    <None Include="wwwroot\css\cs-skin-boxes.css" />
+    <None Include="wwwroot\css\demo.css" />
+    <None Include="wwwroot\css\normalize.css" />
+    <None Include="wwwroot\fonts\.DS_Store" />
+    <None Include="wwwroot\fonts\codropsicons\codropsicons.eot" />
+    <None Include="wwwroot\fonts\codropsicons\codropsicons.svg" />
+    <None Include="wwwroot\fonts\codropsicons\codropsicons.ttf" />
+    <None Include="wwwroot\fonts\codropsicons\codropsicons.woff" />
+    <None Include="wwwroot\fonts\codropsicons\license.txt" />
+    <None Include="wwwroot\img\.DS_Store" />
+    <None Include="wwwroot\img\abacusstar.svg" />
+    <None Include="wwwroot\img\conversion.svg" />
+    <None Include="wwwroot\img\dollar.svg" />
+    <None Include="wwwroot\img\mobile.svg" />
+    <None Include="wwwroot\img\Readme.txt" />
+    <None Include="wwwroot\img\relatedposts\minimalform1-300x162.png" />
+    <None Include="wwwroot\img\relatedposts\MorphingButtons-300x162.png" />
+    <None Include="wwwroot\img\social.svg" />
+    <None Include="wwwroot\js\classie.js" />
+    <None Include="wwwroot\js\fullscreenForm.js" />
+    <None Include="wwwroot\js\modernizr.custom.js" />
+    <None Include="wwwroot\js\selectFx.js" />
+  </ItemGroup>
+
+</Project>

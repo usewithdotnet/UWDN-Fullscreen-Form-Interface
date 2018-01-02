@@ -1,0 +1,11 @@
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\bin\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.deps.json
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\bin\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.runtimeconfig.json
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\bin\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.runtimeconfig.dev.json
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\bin\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.dll
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\bin\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.pdb
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\obj\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.csprojResolveAssemblyReference.cache
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\obj\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.csproj.CoreCompileInputs.cache
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\obj\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.AssemblyInfoInputs.cache
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\obj\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.AssemblyInfo.cs
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\obj\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.dll
+D:\Dropbox\UWDN\demos\UWDN.FullScreenForm\UWDN.FullScreenForm.Web\obj\Debug\netcoreapp2.0\UWDN.FullScreenForm.Web.pdb

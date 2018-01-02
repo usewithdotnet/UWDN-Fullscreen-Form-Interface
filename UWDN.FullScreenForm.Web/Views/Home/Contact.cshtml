@@ -1,0 +1,28 @@
+﻿@model  List<Contact>
+@{
+}
+<table border="1">
+	<thead>
+		<tr>
+			<td>Name</td>
+			<td>Email</td>
+			<td>Priority</td>
+			<td>Imagine</td>
+			<td>Budget</td>
+			<td>Color</td>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var contact in Model)
+		{
+			<tr>
+				<td>@contact.q1</td>
+				<td>@contact.q2</td>
+				<td>@contact.q3</td>
+				<td>@contact.q4</td>
+				<td>@contact.q5</td>
+				<td>@contact.qx</td>
+			</tr>
+		}
+	</tbody>
+</table>
